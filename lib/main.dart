@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:speech_to_text/speech_to_text.dart';
-import 'package:talk/screens/draw.dart';
-import 'package:talk/screens/home.dart';
-import 'package:talk/screens/speechToText.dart';
+import 'package:speechly/screens/draw.dart';
+import 'package:speechly/screens/home.dart';
+import 'package:speechly/screens/speechToText.dart';
 
 void main() {
   runApp(MaterialApp(
