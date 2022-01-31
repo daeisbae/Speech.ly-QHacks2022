@@ -1,9 +1,13 @@
+# Status
+[![QHacks CI](https://github.com/daeisbae/Speech.ly-QHacks2022/actions/workflows/dart.yml/badge.svg?branch=main)](https://github.com/daeisbae/Speech.ly-QHacks2022/actions/workflows/dart.yml)
+
 # Original Repo
 [Original Repository that we worked on](https://github.com/Akanksha1212/Speech.ly)
 
 # Video demo
 [Demo of our app](https://youtu.be/13yXFXi5dDI)
 
+# Description
 ## 💡 Inspiration
 Whether made of brightly-colored cotton or medical-grade materials, face masks are now a fact of life during the pandemic to help prevent the spread of COVID-19. But face masks can make communication difficult, especially for deaf students, faculty, staff, and other people at Universities and public places. Face masks and personal protective equipment (PPE) can cause unintentional communication issues for everyone, across both spoken and signed languages.
 
